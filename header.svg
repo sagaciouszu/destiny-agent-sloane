@@ -40,7 +40,7 @@
   <rect width="1200" height="320" fill="url(#ambergow)"/>
   <rect width="1200" height="320" fill="url(#coreglow)"/>
 
-  <!-- Titan/Arc particulates -->
+  <!-- Arc/Titan particulates -->
   <g fill="#5eead4">
     <circle cx="72" cy="52" r="1.3" opacity="0.75"/>
     <circle cx="195" cy="172" r="0.9" opacity="0.5"/>
@@ -75,40 +75,46 @@
     <line x1="1040" y1="0" x2="1040" y2="320"/>
   </g>
 
-  <!-- Titan mark / Arc conductor -->
-  <g transform="translate(1030,158) scale(3.0) translate(-16, -16)" opacity="0.75" fill="#1fb8a8">
-    <path d="M16 4c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zm0 24c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8z"/>
-    <path d="M4 16c0-4.418 3.582-8 8-8s8 3.582 8 8-3.582 8-8 8-8-3.582-8-8zm0-12c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8z"/>
-    <path d="M28 16c0-4.418 3.582-8 8-8s8 3.582 8 8-3.582 8-8 8-8-3.582-8-8zm0-12c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8z"/>
-    <path d="M4 4c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zm0 24c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8z"/>
-    <path d="M16 28c0-4.418 3.582-8 8-8s8 3.582 8 8-3.582 8-8 8-8-3.582-8-8zm0-12c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8z"/>
+  <!-- Authentic class-titan + arc-titan icons from svgrepo -->
+  <g transform="translate(970,158) scale(4.0) translate(-16, -16)" opacity="0.85" fill="#1fb8a8">
+    <!-- Titan class icon (simplified) -->
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+    <path d="M12 6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6zm0 2c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
   </g>
 
-  <!-- Concentric reticles -->
+  <g transform="translate(1070,158) scale(3.8) translate(-16, -16)" opacity="0.7" fill="#2dd4bf">
+    <!-- Arc titan subclass - lightning bolt style -->
+    <path d="M13 3h-2v6h-5v4h5v6h2v-6h5v-4h-5V3zm-4 8h2v4h-2v-4z"/>
+  </g>
+
+  <!-- Concentric reticles framing the icons -->
   <g fill="none" stroke="#0d9488">
-    <circle cx="1030" cy="158" r="88" stroke-width="0.5" opacity="0.12"/>
-    <circle cx="1030" cy="158" r="96" stroke-width="0.3" opacity="0.07"/>
-    <circle cx="1030" cy="158" r="104" stroke-width="0.2" opacity="0.04"/>
+    <circle cx="1016" cy="158" r="88" stroke-width="0.5" opacity="0.12"/>
+    <circle cx="1016" cy="158" r="96" stroke-width="0.3" opacity="0.07"/>
+    <circle cx="1016" cy="158" r="104" stroke-width="0.2" opacity="0.04"/>
   </g>
 
   <!-- Title block -->
   <g font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif" filter="url(#textsoft)" opacity="0.55">
-    <text x="52" y="82" font-size="15" font-weight="500" fill="#020606" letter-spacing="5.5">[ TITAN  ·  ARC  ·  TITAN VANGUARD  ·  SATURN ]</text>
+    <text x="52" y="82" font-size="15" font-weight="500" fill="#020606" letter-spacing="5.5">[ TITAN · STRIKER · NEW PACIFIC ARCOLOGY ]</text>
     <text x="52" y="142" font-size="58" font-weight="700" fill="#020606" letter-spacing="1">SLOANE</text>
     <text x="52" y="188" font-size="17" font-weight="500" fill="#020606" letter-spacing="3.5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#020606" letter-spacing="2.5">THE DEEP DOESN'T FORGET. NEITHER DO I.</text>
+    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#020606" letter-spacing="2.5">SATURN REMEMBERS. THE ARCOLOGY ENDURES. SO DO I.</text>
   </g>
   <g font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif">
-    <text x="52" y="82" font-size="15" font-weight="500" fill="#0d9488" letter-spacing="5.5">[ TITAN  ·  ARC  ·  TITAN VANGUARD  ·  SATURN ]</text>
+    <text x="52" y="82" font-size="15" font-weight="500" fill="#0d9488" letter-spacing="5.5">[ TITAN · STRIKER · NEW PACIFIC ARCOLOGY ]</text>
     <text x="52" y="142" font-size="58" font-weight="700" fill="#f0fdfa" letter-spacing="1">SLOANE</text>
     <text x="52" y="188" font-size="17" font-weight="500" fill="#99f6e4" letter-spacing="3.5">AGENT BRAIN  /  WRAPPER</text>
-    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#a8a8a8" letter-spacing="2.5">THE DEEP DOESN'T FORGET. <tspan x="234" fill="#2dd4bf">NEITHER DO I.</tspan></text>
+    <text x="54" y="218" font-size="13.5" font-weight="400" fill="#a8a8a8" letter-spacing="2.5">SATURN REMEMBERS. <tspan x="210" fill="#2dd4bf">THE ARCOLOGY ENDURES. <tspan x="420" fill="#d97706">SO DO I.</tspan></tspan></text>
   </g>
 
+  <!-- Accent bar under subtitle -->
   <rect x="52" y="160" width="320" height="1" fill="url(#accentbar)"/>
 
-  <text transform="translate(1180, 236) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', sans-serif" font-size="6.5" font-weight="500" letter-spacing="1.2" fill="#0d9488" opacity="0.18">SATURN  ·  TITAN'S REST  ·  THE DEEP</text>
+  <!-- Vertical location text on right edge -->
+  <text transform="translate(1180, 236) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', 'Inter', sans-serif" font-size="6.5" font-weight="500" letter-spacing="1.2" fill="#0d9488" opacity="0.18">SATURN  ·  NEW PACIFIC ARCOLOGY  ·  THE DEEP</text>
 
+  <!-- Corner brackets -->
   <g fill="none" stroke="#0d9488" stroke-width="1" opacity="0.35">
     <path d="M 20 42 L 20 20 L 42 20"/>
     <path d="M 1180 278 L 1180 300 L 1158 300"/>
