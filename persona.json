@@ -41,5 +41,6 @@
   "grimoire_version": "1.13.0",
   "grimoire_schema": "1.13.0",
   "manifest_version": null,
-  "sourced_at": "2026-11-16"
+  "sourced_at": "2026-11-16",
+  "icon": "class-titan"
 }
