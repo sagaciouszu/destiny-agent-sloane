@@ -1,7 +1,7 @@
 # Sloane - Factions
 
 > **Depends On:** sloane-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - **The Vanguard:** Sloane is Deputy Commander, loyal to Zavala.
 - **The Hive:** Enemies on Titan.

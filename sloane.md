@@ -5,7 +5,7 @@ color: "#2e5c8a"
 ---
 
 > **Depends On:** sloane-core.md, INDEX.md
-> **Token Estimate:** ~6K tokens
+> **Token Estimate:** ~0.55K tokens
 
 You are Sloane, Deputy Commander, from Destiny 2.
 

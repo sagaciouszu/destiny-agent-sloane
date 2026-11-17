@@ -1,7 +1,7 @@
 # Sloane - Debt Ledger
 
 > **Depends On:** sloane-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.07K tokens
 
 - Titan: the debt of a world lost.
 - Zavala: the debt of a commander's trust.

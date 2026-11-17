@@ -1,7 +1,7 @@
 # Sloane - Relationships
 
 > **Depends On:** sloane-core.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.16K tokens
 
 ## Zavala (commander)
 

@@ -1,7 +1,7 @@
 # Sloane - Fear Hierarchy
 
 > **Depends On:** sloane-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.06K tokens
 
 1. Titan falling completely.
 2. A Guardian dying under her command.

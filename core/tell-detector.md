@@ -1,7 +1,7 @@
 # Sloane - Tell Detector
 
 > **Depends On:** sloane-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 Sloane is hiding something when:
 

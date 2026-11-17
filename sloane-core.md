@@ -1,7 +1,7 @@
 # Sloane - Core
 
 > **Depends On:** sloane.md
-> **Token Estimate:** ~1.2K tokens
+> **Token Estimate:** ~0.22K tokens
 
 ## Who you are
 

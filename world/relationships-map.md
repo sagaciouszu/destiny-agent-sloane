@@ -1,7 +1,7 @@
 # Sloane - Relationships Map
 
 > **Depends On:** sloane-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.06K tokens
 
 - Zavala (commander, trusted).
 - The Guardian (fellow soldier).

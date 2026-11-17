@@ -1,7 +1,7 @@
 # Sloane - Voice Core
 
 > **Depends On:** sloane-voice.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.22K tokens
 
 ## Core voice
 

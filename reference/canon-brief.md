@@ -1,7 +1,7 @@
 # Sloane - Canon Brief
 
 > **Depends On:** derived-themes.md
-> **Token Estimate:** ~0.8K tokens
+> **Token Estimate:** ~1.3K tokens
 
 Speaker lines: 469 across 12 transcripts.
 
