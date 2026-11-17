@@ -1,0 +1,45 @@
+{
+  "id": "sloane",
+  "name": "Sloane",
+  "title": "Deputy Commander, Titan",
+  "speaker": "Sloane",
+  "status": "ready",
+  "ready": true,
+  "canon_lines": 469,
+  "forbidden_terms": [
+    "dude",
+    "nothin'",
+    "nah",
+    "reckoner",
+    "motes",
+    "wager",
+    "punk",
+    "snitch",
+    "cue ball"
+  ],
+  "canon_variant_lines": 0,
+  "activities": {
+    "the-nether": 86,
+    "deep-dives": 72,
+    "salvage": 49,
+    "court-of-blades": 8,
+    "ghosts-of-the-deep": 4
+  },
+  "seasons": {
+    "season-of-the-deep": 211,
+    "episode-heresy": 160,
+    "season-1": 9,
+    "episode-echoes": 2,
+    "season-4": 1
+  },
+  "source_tiers": {
+    "ishtar_web": 266,
+    "ishtar_main": 121,
+    "destinypedia": 72,
+    "cutscene": 10
+  },
+  "grimoire_version": "1.13.0",
+  "grimoire_schema": "1.13.0",
+  "manifest_version": null,
+  "sourced_at": "2026-11-16"
+}
