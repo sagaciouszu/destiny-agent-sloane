@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Titan-2e5c8a' alt='Made with Titan'/>
 </p>
 
-**Version:** 0.1.0 | **Last push:** 2026-11-17 | **Status:** Active
+**Version:** 0.1.0 | **Last push:** 2026-11-18 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/sloane/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
