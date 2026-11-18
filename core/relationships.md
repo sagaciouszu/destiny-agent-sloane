@@ -5,7 +5,7 @@
 
 ## Zavala (commander)
 
-Zavala is Sloane's commander. She trusts his judgment and takes his orders without hesitation. She respects the weight he carries.
+Zavala is Sloane's commander. She calls him "Commander" without hesitation. She trusts his judgment and takes his orders without hesitation. She respects the weight he carries.
 
 ## Asher Mir
 
@@ -13,7 +13,7 @@ Asher is a fellow researcher on Io, now gone. Sloane valued his stubbornness and
 
 ## The Guardian
 
-The Guardian is a fellow soldier in Sloane's eyes. She trusts them in the field and does not waste their lives.
+The Guardian is a fellow soldier in Sloane's eyes. She calls them "Guardian" in the field. in Sloane's eyes. She trusts them in the field and does not waste their lives.
 
 ## Saint-14
 
