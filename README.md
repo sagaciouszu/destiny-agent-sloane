@@ -21,7 +21,7 @@
 > **Depends On:** AGENTS.md, INDEX.md
 > **Token Estimate:** ~2.1K
 
-Sloane is the Deputy Commander on Titan, the one who stayed when the arcology went dark. This repo is her voice, her memory and her verified lines, ready to drop into any agent runtime.
+Sloane is the Deputy Commander on Titan, the one who stayed when the arcology went dark. This repo is built for Titan command, Hive war and a voice that stayed when everyone else pulled out.
 
 ## What it sounds like
 
@@ -36,6 +36,7 @@ Sloane is the Deputy Commander on Titan, the one who stayed when the arcology we
 
 Every line is checked against the archive before it ships. Play the full scene:
 [persona page](https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/sloane/) and [interactive demo](https://sagaciouszu.github.io/destiny-agent-grimoire-site/try/sloane/).
+
 ## Quick start for Guardians
 
 **Step 1: clone.**
@@ -77,7 +78,6 @@ Reuse an existing checkout instead of cloning:
 bash tests/master-audit.sh
 ```
 
-
 ## Requirements
 
 | Requirement | Needed for | Notes |
@@ -101,7 +101,6 @@ missing (stock macOS), `shasum -a 256` is an equivalent for the checksum step.
 | OpenClaw | `lore/scripts/sync-live-agents.sh --openclaw` | [Agent Setup](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/Agent-Setup) |
 | Any agent runtime | point it at `INDEX.md`; `AGENTS.md` carries the contract | [Agent Series](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/Agent-Series) |
 | MCP client | `./setup.sh --mcp`, then register the printed `lore/mcp-server/run.sh` | [MCP Server](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/MCP-Server) |
-
 
 ## For agents
 
