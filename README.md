@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Titan-2e5c8a' alt='Made with Titan'/>
 </p>
 
-**Version:** 0.1.0 | **Last push:** 2026-11-18 | **Status:** Active
+**Version:** 0.1.0 | **Last push:** 2026-11-20 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/sloane/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
@@ -106,8 +106,8 @@ Load in this order:
 
 | Tier | Files | Budget |
 |---|---|---|
-| Core | `sloane.md` + `sloane-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~1.7K |
-| Task-loaded | everything else, loaded per task | ~16.2K ref (not gated) |
+| Core | `sloane.md` + `sloane-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~2.7K |
+| Task-loaded | everything else, loaded per task | ~11.1K ref (not gated) |
 
 - Contract: `AGENTS.md` (platform-neutral rules, canon and quote policy).
 - Map: `INDEX.md` lists every module, tier and topic route.
